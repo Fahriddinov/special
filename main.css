@@ -1,0 +1,252 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+.nav{
+    display: flex;
+    gap: 1000px;
+    margin: 50px 0 0 150px;
+}
+
+.logo{
+    color: #FF0043;
+font-size: 25px;
+font-weight: 700;
+}
+
+.beta{
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 700;
+color: white;
+width: 94px;
+height: 46px;
+background: #FF0043;
+border-radius: 100px;
+text-decoration: none;
+}
+
+.big-box{
+    display: flex;
+    margin: 100px 0 0 100px;
+    gap: 150px;
+}
+
+.header-texts{
+    margin: 100px 0 0 0;
+}
+
+.t-one{
+font-size: 60px;
+font-weight: 900;
+color: #00194A;
+}
+
+.p-one{
+font-size: 18px;
+font-weight: 300;
+color: #00194A;
+margin: 30px 0 50px 0;
+}
+
+.btn-one{
+    width: 275px;
+    height: 60px;
+    gap: 0px;
+    opacity: 0px;
+    background: #FF0043;
+    font-family: SourceSansPro;
+    font-size: 16px;
+    color: white;
+    box-shadow: 0px 5px 50px 0px #FF00431A;
+    border-radius: 50px;   
+}
+
+.phones{
+    margin-top: -50px;
+}
+
+.container{
+    display: flex;
+    margin: 150px 0 0 200px;
+    width: 1140px;
+height: 272px;
+gap: 30px;
+}
+
+.one{
+    width: 360px;
+height: 272px;
+box-shadow: 0px 0px 25px 0px #00000008;
+}
+
+.two{
+    width: 360px;
+height: 272px;
+box-shadow: 0px 0px 25px 0px #00000008;
+}
+
+.three{
+    width: 360px;
+height: 272px;
+box-shadow: 0px 0px 25px 0px #00000008;
+}
+
+.android{
+    margin: 30px 0 0 20px;
+}
+
+.andr{
+    font-family: Roboto;
+font-size: 22px;
+font-weight: 500;
+color: #00194A;
+margin: 30px 0 20px 20px;
+}
+
+.lor{
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 300;
+color: #00194A;
+margin: 0 0 20px 20px;
+opacity: 80%;
+}
+
+.beta-free{
+    color: #00194A;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.75px;
+    margin-left: 20px;
+    opacity: 50%;
+}
+
+.down{
+    margin: 0 0 0 150px;
+}
+
+.main{
+    display: flex;
+    margin: 100px 0 0 50px;
+}
+
+.box-two{
+    margin: 200px 0 0 0;
+}
+
+.simple{
+    font-family: Roboto;
+font-size: 35px;
+font-weight: 800;
+color: #00194A;
+margin-bottom: 50px;
+}
+
+.lor2{
+    font-family: Roboto;
+font-size: 20px;
+font-weight: 300;
+opacity: 70%;
+}
+
+.sec{
+    display: flex;
+}
+
+.box-three{
+    margin: 300px 0 0 150px;
+}
+
+.one-box{
+    margin: 150px 0 0 150px;
+}
+
+.secur{
+    font-family: Roboto;
+font-size: 22px;
+font-weight: 500;
+color: #00194A;
+margin: 30px 0 20px 0;
+}
+
+.itis{
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 300;
+color: #00194A;
+margin: 0 0 20px 0;
+opacity: 80%;
+}
+
+.two-box{
+    margin: 0 0 0 500px;
+}
+
+.three-box{
+    margin: 0 0 0 150px;
+}
+
+.content2{
+    margin: 0 150px 0 100px;
+    position: relative;
+}
+
+.gr{
+    margin: 250px 0 0 200px;
+    position: absolute;
+}
+
+.h111{
+    color: white;
+    text-align: center;
+    margin: 50px 0 0 0;
+    padding-top: 50px;
+}
+
+    .zz{
+        font-family: Roboto;
+font-size: 18px;
+font-weight: 300;
+line-height: 28px;
+text-align: center;
+color: white;
+    }
+
+
+    .box-tex{
+        width: 1139px;
+height: 346px;
+opacity: 0px;
+background: #00194A;
+border-radius: 10px;
+margin: 250px 0 0 200px;
+    }
+
+
+    .one-btnn{
+        width: 275px;
+    height: 60px;
+        color: white;
+        background: #FF0043;
+    border: 1px black;
+    border-radius: 35px;
+    margin: 100px 0 0 420px;
+    }
+
+.footer{
+    margin: 100px 0 50px 100px;
+    display: flex;
+    gap: 700px;
+    color: #00194A;
+}
+
+.ft1{
+font-size: 18px;
+font-weight: 500;
+}
